@@ -7,6 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="theme-color" content="#00272b">
     <meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="http://lazar-ristic.info/01/Movie-Generator"/>
+    <meta name="twitter:creator" content="@lristic"/>
+    <meta name="twitter:title" content="Quarantine & Chill"/>
+    <meta name="twitter:description" content="Don't know what to watch? Generate a random movie or a TV Show"/>
+    <meta name="twitter:image" content="http://lazar-ristic.info/01/Movie-Generator/img/logoTw.jpg"/>
     
     <!--- Favicon --->
     <link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144.png">
